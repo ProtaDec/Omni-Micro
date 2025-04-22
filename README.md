@@ -14,10 +14,22 @@ Double grip modular extruder, based on [Sherpa Micro](https://github.com/Annex-E
 ## Future Additions
 - Filament sensor.
   I have an idea of how I want to go about it, but I currently don't own any multi-material DIY printers, and the motivation just isn't there.
+# BOM
 IMG_BOM
-## BOM
+## Fasteners
 
-  
+| Article                    | Qty         | Notes       |
+|---------------------------|-------------|-------------|
+| M3x4(+)mm Ultra Low Profile | 1           | For motor   |
+| M3x6mm BHCS                | 1 to 2       |             |
+| M3x8mm BHCS                | 2           |             |
+| M3x12mm BHCS               | 0 to 2       | Bowden cap  |
+| M3x18mm BHCS               | 5           |             |
+| M3x20(+)mm BHCS            | 1           | For motor   |
+| 3x6x0.2mm Shim             | 1           | For motor   |
+| 3x6x0.5mm Shim             | 3           |             |
+| M3x5x4mm Heat-set Insert   | 8 to 11      |             |
+
 
 
 
