@@ -30,6 +30,20 @@ IMG_BOM
 | 3x6x0.5mm Shim             | 3           |             |
 | M3x5x4mm Heat-set Insert   | 8 to 11      |             |
 
+## Extruder Parts
+
+| Article                          | Qty       | Notes                     |
+|----------------------------------|-----------|---------------------------|
+| NEMA14 36mm Stepper 10t to 6t    | 1         |                           |
+| BMG Driving Gear Assembly        | 2         | OEM RIDGA V2 preferred    |
+| BMG Idler Gear Assembly          | 1 to 2     |                           |
+| MR73 Ball bearing                | 1 to 2     |                           |
+| M3x20 Idler pin                  | 2 to 4     | may need sanding for mr73 |
+| Bondtech Spring                  | 1 to 2     |                           |
+| E3D 5mm Collet                   | 0 to 1     |                           |
+| E3D 6mm Collet                   | 0 to 1     |                           |
+| ECAS04 Collet                    | 0 to 1     |                           |
+
 
 
 
