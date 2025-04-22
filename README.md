@@ -23,14 +23,14 @@ Double grip modular extruder, based on [Sherpa Micro](https://github.com/Annex-E
 | Article                    | Qty         | Notes       |
 |---------------------------|-------------|-------------|
 | M3x4(+)mm Ultra Low Profile | 1           | For motor   |
-| M3x6mm BHCS                | 1 to 2       |             |
+| M3x6mm BHCS                | 1÷2       |             |
 | M3x8mm BHCS                | 2           |             |
-| M3x12mm BHCS               | 0 to 2       | Bowden cap  |
+| M3x12mm BHCS               | 0÷2       | Bowden cap  |
 | M3x18mm BHCS               | 5           |             |
 | M3x20(+)mm BHCS            | 1           | For motor   |
 | 3x6x0.2mm Shim             | 1           | For motor   |
 | 3x6x0.5mm Shim             | 3           |             |
-| M3x5x4mm Heat-set Insert   | 8 to 11      |             |
+| M3x5x4mm Heat-set Insert   | 8÷11      |             |
 
 ## Extruder Parts
 
@@ -38,10 +38,10 @@ Double grip modular extruder, based on [Sherpa Micro](https://github.com/Annex-E
 |----------------------------------|-----------|---------------------------|
 | NEMA14 36mm Stepper 10t to 6t    | 1         |                           |
 | BMG Driving Gear Assembly        | 2         | OEM RIDGA V2 preferred    |
-| BMG Idler Gear Assembly          | 1 to 2     |                           |
-| MR73 Ball bearing                | 1 to 2     |                           |
-| M3x20 Idler pin                  | 2 to 4     | may need sanding for mr73 |
-| Bondtech Spring                  | 1 to 2     |                           |
-| E3D 5mm Collet                   | 0 to 1     |                           |
-| E3D 6mm Collet                   | 0 to 1     |                           |
-| ECAS04 Collet                    | 0 to 1     |                           |
+| BMG Idler Gear Assembly          | 1÷2     |                           |
+| MR73 Ball bearing                | 1÷2     |                           |
+| M3x20 Idler pin                  | 2÷4     | may need sanding for mr73 |
+| Bondtech Spring                  | 1÷2     |                           |
+| E3D 5mm Collet                   | 0÷1     |                           |
+| E3D 6mm Collet                   | 0÷1     |                           |
+| ECAS04 Collet                    | 0÷1     |                           |
