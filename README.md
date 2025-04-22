@@ -3,7 +3,8 @@ Double grip modular extruder, based on [Sherpa Micro](https://github.com/Annex-E
 ## Concept Features
 - Double grip extruders have existed for a while. They help conventional* hotends reach their thermal bottleneck, adding weight and build cost;
 - Smooth idler extruders, on the other hand, have proved to increase extruson consistency at the loss of grip;
-- I consider this extruder a spiritual successor of the [Sherpa Crew Mini](https://github.com/jrlomas/Sherpa-Crew-Mini) by KR, whom I've been in contact with for a while. I like to think I have improved on the existing formula, while they went for something entirely different, [Mirò](https://github.com/jrlomas/miro-extruder).  
+- I consider this extruder a spiritual successor of the [Sherpa Crew Mini](https://github.com/jrlomas/Sherpa-Crew-Mini) by KR, whom I've been in contact with for a while. I like to think I have improved on the existing formula, while they went for something entirely different, [Mirò](https://github.com/jrlomas/miro-extruder).
+  
 *Untested with new-generation hotends such as [Chube](https://chubehotend.com/) by Luke's Laboratory.
 ## Design-specific features
 - No alteration of leftover original design elements, except for "fusing" two units;
