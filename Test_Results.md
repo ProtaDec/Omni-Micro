@@ -1,4 +1,4 @@
---- 01 ---
+# TEST 01
 - IDLERS: smooth driving, geared reverse (stock config)
 - Filament: Fillamentum Natural PLA @230°C
 - Motor: 6T LDO 20mm @0.75a
@@ -12,4 +12,4 @@
 | ≤36                   | 98.9%        |
 | ≤38                   | 98.5%        |
 | ≤40                   | SKIP         |
-| **Note**              | *Bottleneck: most probably reached max hotend capacity* |
+| **Bottleneck**              | *most probably reached max hotend capacity* |
