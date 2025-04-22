@@ -17,7 +17,7 @@ Double grip modular extruder, based on [Sherpa Micro](https://github.com/Annex-E
 - Filament sensor.
   I have an idea of how I want to go about it, but I currently don't own any multi-material DIY printers, and the motivation just isn't there.
 # BOM
-
+![My Image](Images/BOM.png)
 ## Fasteners
 
 | Article                    | Qty         | Notes       |
