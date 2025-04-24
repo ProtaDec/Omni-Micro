@@ -25,4 +25,4 @@ Solid Top/Bottom Layers: 4 minimum (at 0.25mm Height)
 For Housing_Rear:
 Recommended FDM Materials: PC-PBT GF, PET CF, to prevent deformation/melting from motor heat.
 Alternate Approved FDM Materials: ABS/ASA if your extruder motor keeps cool enough. More testing needed.
-Infill Percentage: 100%
+Infill Percentage: 100% at least around the motor mount area.
