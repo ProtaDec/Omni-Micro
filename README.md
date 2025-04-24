@@ -14,7 +14,7 @@ Double grip modular extruder, based on [Sherpa Micro](https://github.com/Annex-E
 - First layer squish compensation built-in (reliability to be confirmed);
 - Idler arms and tensioners are compatible with regular Sherpa Micro.
 ## Future Additions
-- Filament sensor;
+- Filament sensor;  
   I have an idea of how I want to go about it, but I currently don't own any multi-material DIY printers, and the motivation just isn't there.
 - Skeletonized Housing_Rear (maybe).
 # BOM
