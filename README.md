@@ -1,4 +1,5 @@
 # Omni-Micro
+![My Image](Images/Side.png)
 Double grip modular extruder, based on [Sherpa Micro](https://github.com/Annex-Engineering/Sherpa_Micro-Extruder) by Annex Engineering.
 ## Concept Features
 - Double grip extruders have existed for a while. They help conventional* hotends reach their thermal bottleneck, adding weight and build cost;
