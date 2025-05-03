@@ -1,5 +1,6 @@
 Primary Color: nothing at start of file name
-Accent Color: [a]_ at start of file name
+Accent Color: (a)_ at start of file name
+High Temp: (HT)_ at start of file name
 Quantity Required: _x# near end of file name
 
 Nozzle Size: 0.5mm 
