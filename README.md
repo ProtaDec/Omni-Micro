@@ -46,4 +46,8 @@ Double grip modular extruder, based on [Sherpa Micro](https://github.com/Annex-E
 | Bondtech Spring                  | 1÷2     |                           |
 | E3D 5mm Collet                   | 0÷1     |                           |
 | E3D 6mm Collet                   | 0÷1     |                           |
-| ECAS04 Collet                    | 0÷1     |                           |
+| ECAS04 Collet                    | 0÷1     |                           |  
+
+# Assembly
+[![Watch the video](https://img.youtube.com/vi/DaNchYcJ7qc/maxresdefault.jpg)](https://youtu.be/DaNchYcJ7qc)
+### [Watch temporary video here](https://youtu.be/DaNchYcJ7qc)
