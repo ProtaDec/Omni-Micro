@@ -24,7 +24,7 @@ Double grip modular extruder, based on [Sherpa Micro](https://github.com/Annex-E
 
 | Article                    | Qty         | Notes       |
 |---------------------------|-------------|-------------|
-| M3x4(+)mm Ultra Low Profile | 1           | For motor   |
+| M3x6(+)mm Ultra Low Profile | 1           | For motor   |
 | M3x6mm BHCS                | 1÷2       |             |
 | M3x8mm BHCS                | 2           |             |
 | M3x12mm BHCS               | 0÷2       | Bowden cap  |
