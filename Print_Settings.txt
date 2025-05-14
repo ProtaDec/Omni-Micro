@@ -27,3 +27,7 @@ For Housing_Rear:
 Recommended FDM Materials: PC-PBT GF, PET CF, to prevent deformation/melting from motor heat.
 Alternate Approved FDM Materials: ABS/ASA if your extruder motor keeps cool enough. More testing needed.
 Infill Percentage: 100% at least around the motor mount area.
+
+!!! SC_0.0X (Squish Compensation) STLs !!!
+Use these if your RIDGA gear's hobbed part does not go far enough towards the motor to align with the filament path.
+I have had to use all three variants of Housing_Rear for the corresponding units I made with different filament types.
